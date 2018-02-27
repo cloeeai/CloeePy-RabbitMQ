@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='CloeePy-RabbitMQ',
-    version='0.0.0-rc1',
+    version='0.0.0',
     packages=['cloeepy_rabbitmq',],
     package_data = {
         'cloeepy_rabbitmq': ['data/*.yml'],
